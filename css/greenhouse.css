@@ -91,7 +91,6 @@ h2{
 
 h4{
     font-family: 'Inter Tight', sans-serif;
-    font-style: regular;
     color:#F4F8D1 ;
     font-size: 20px;
     padding-right: 80px;
@@ -110,7 +109,6 @@ h4{
 
  form input {
     font-family: 'Inter Tight', sans-serif;
-    font-style: regular;
     border-radius: 50px;
     border: 3px solid #F4F8D1;
     height: 30px;
@@ -122,7 +120,6 @@ h4{
 ::placeholder {
     color: #f4f8d1bf;
     font-family: 'Inter Tight', sans-serif;
-    font-style: regular;
     font-weight: 700;
 }
 #firstname {
@@ -136,7 +133,6 @@ h4{
 
 form input[type=submit] {
     font-family: 'Inter Tight', sans-serif;
-    font-style: regular;
     font-weight: 700;
     color:#C7E6C4 ;
     border-radius: 50px;
@@ -170,7 +166,6 @@ body {
     background-color: #C7E6C4;
     font-family: vinila, sans-serif;
     font-weight: 700;
-    font-style: regular;    
     color: #7BAD77;
     text-align: center;
     font-size: 10px;
@@ -213,7 +208,6 @@ nav ul li{
     text-decoration: #7BAD77;
     font-size: 15px;
     font-family: vinila, sans-serif;
-    font-weight: 400px;
 }
 #shop {
     color: #7BAD77;
