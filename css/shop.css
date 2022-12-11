@@ -31,9 +31,7 @@ h1{
 
 nav ul {
     float: right;
-    align-items: left;
     list-style-type: none;
-    align-items: right;
     background-color: transparent;
     margin-right: 30px;
     text-decoration: none;
