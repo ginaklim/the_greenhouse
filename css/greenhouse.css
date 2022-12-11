@@ -1,0 +1,436 @@
+/* FONTS <3 */
+@import url("https://use.typekit.net/zgd5lnj.css");
+/* font-family: vinila, sans-serif;
+font-weight: 300;
+font-style: normal; */
+
+@import url("https://use.typekit.net/zgd5lnj.css");
+/* font-family: vinila, sans-serif;
+font-weight: 300;
+font-style: italic; */
+
+
+
+header{
+    background-image: url("../images/gh.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0;
+    padding: 0;
+    /* padding-bottom: 50%; */
+    border: none;
+    background-size: 100%;
+}
+
+
+/* "THE GREENHOUSE" TITLE */
+h1{
+    color: #f8fff7;
+    background-color: #9acd96a0;
+    text-align: center;
+    font-size:120px;
+    font-family: glodok, sans-serif;
+    padding-top: 40px;
+    margin: 0;
+}
+
+#downarrow{
+    margin-top: 25%;
+    margin-bottom: 100px;
+}
+
+/* WHAT'S IN STOCK */
+h2{
+    background-color:transparent;
+    color: #7BAD77;
+    font-family: vinila, sans-serif;
+    font-weight: 700;
+    font-style: italic;    
+    font-size: 40px;
+    text-align: left;
+    margin-left: 15%;
+    padding-top: 200px;
+    margin-bottom: 10px;
+}
+
+#plant1 {
+    margin-left: 2%;    
+    margin-right: 2%;
+}
+#plant2 {
+    margin-left: 2%;    
+    margin-right: 2%;
+}
+#plant3 {
+    margin-left: 2%;    
+    margin-right: 2%;
+}
+#plant4 {
+    margin-left: 2%;    
+    margin-right: 2%;
+}
+
+
+
+/* KEEP IN TOUCH */
+
+#keepintouch {
+    background-color:transparent;
+    color: #7BAD77;
+    font-family: 'Inter Tight', sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: 100px;   
+    background-color: transparent;
+    text-align: left;
+    /* float: left; */
+}
+
+/* JOIN OUR MAILING LIST */
+
+h4{
+    font-family: 'Inter Tight', sans-serif;
+    font-style: regular;
+    color:#F4F8D1 ;
+    font-size: 20px;
+    padding-right: 80px;
+    padding-top: 30px;
+    text-decoration: underline;
+    background-color: transparent;
+    background-color: transparent;
+}
+#mailinglist {
+    margin-left: 15%;
+    margin-top: 20px;
+    background-color: transparent;
+    padding-left: 0px;
+    text-align: left;
+}
+
+ form input {
+    font-family: 'Inter Tight', sans-serif;
+    font-style: regular;
+    border-radius: 50px;
+    border: 3px solid #F4F8D1;
+    height: 30px;
+    width: 400px;
+    font-size: 14px;
+    padding-left: 20px; 
+    background-color: transparent;
+}
+::placeholder {
+    color: #f4f8d1bf;
+    font-family: 'Inter Tight', sans-serif;
+    font-style: regular;
+    font-weight: 700;
+}
+#firstname {
+    margin-left: 0px;
+    color: #f4f8d1b8;
+    }
+#email {
+    margin-left: 300px;
+    color: #f4f8d1b8;
+}
+
+form input[type=submit] {
+    font-family: 'Inter Tight', sans-serif;
+    font-style: regular;
+    font-weight: 700;
+    color:#C7E6C4 ;
+    border-radius: 50px;
+    font-size: 15px;
+    background-color:#F4F8D1 ;
+    height: 30px;
+    width: 180px;
+    text-align: center;
+    padding-right: 20px;
+    margin-top: 40px;
+}
+
+
+
+
+/* JOIN US ON SOCIAL MEDIA */
+#joinus {
+    font-family: vinila, sans-serif;
+    font-weight: 700;
+    font-style: italic;    
+    color: #7BAD77;
+    font-size: 40px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    /* text-align: center; */
+}
+
+
+/* BODY paragraph text */
+body {
+    background-color: #C7E6C4;
+    font-family: vinila, sans-serif;
+    font-weight: 700;
+    font-style: regular;    
+    color: #7BAD77;
+    text-align: center;
+    font-size: 10px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-top: 0px;
+    padding-top: 0px;
+}
+
+/*  NAV BAR */
+nav ul{
+    align-items: center;
+    list-style-type: none;
+    color: #3aa333;
+    background-color:#9acd96a0;
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 0px;
+    margin: 0;
+
+}
+nav ul li{
+    display: inline;
+    background-color: #f8fff7bd;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-right:20px;
+    margin-left: 20px;
+    border-radius: 25px;   
+    font-family: vinila, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    
+}
+#home {
+    color: #7BAD77;
+    text-decoration: #7BAD77;
+    font-size: 15px;
+    font-family: vinila, sans-serif;
+    font-weight: 400px;
+}
+#shop {
+    color: #7BAD77;
+    text-decoration: #7BAD77;
+    font-size: 15px;
+}
+#plantcare {
+    color: #7BAD77;
+    text-decoration: #7BAD77;
+    font-size: 15px;
+}
+#about {
+    color: #7BAD77;
+    text-decoration: #7BAD77;
+    font-size: 15px;
+}
+#contact {
+    color: #7BAD77;
+    text-decoration: #7BAD77;
+    font-size: 15px;
+}
+
+
+
+/* SOCIAL LINKS  */
+ul{
+    display: block;
+    border: #3aa333;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 14px;
+    list-style-type: none;
+    padding: 0px;
+    color: #7BAD77;
+}
+ul li {
+    background-color: white;
+    padding: 0;
+    margin: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    text-decoration: none;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 12px;
+    color: #7BAD77;
+
+}
+#facebook {
+    color: #7BAD77;
+    text-decoration: #7BAD77;
+}
+#twitter {
+    color: #7BAD77;
+    text-decoration: #7BAD77;
+}
+#insta {
+    color: #7BAD77;
+    text-decoration: #7BAD77;
+}
+
+
+
+/* PARAGRAPH STYLE for REVIEW  */
+#review {
+    border-style: solid;
+    border-color: #7BAD77;
+    margin-left: 32%;
+    margin-top: 30%;
+    border-width: 4px;
+    border-radius: 100px;
+    width: 800px;
+    height: 150px;
+}
+#pfp {
+    float: left;
+    margin-top: 15px;
+    margin-left: 20px;
+    /* margin-left: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    background-color: #3aa333; */
+}
+#arrowright {
+    float: right;
+    margin-top: 70px;
+    margin-right: 30px;
+    /* margin-right: 315px;
+    margin-top: 50px;
+ */
+}
+#arrowleft {
+    float: left;
+    margin-top: 70px;
+    margin-left: 30px;
+    /* margin-left: 315px;
+    margin-top: 50px; */
+}
+#fabulous {
+    font-family: vinila, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 15px;
+    margin-left: 30%;
+    margin-right: 70px;
+    margin-top: 40px;
+
+}
+
+/* FOOTER */
+footer {
+    background-color: #9bcb97;
+    height: 250px;}
+
+#footer-image {
+    margin-left: 0px;
+    margin-right: 150px;
+    margin-top: 75px;
+    
+}
+
+/* "the greenhouse" footer */
+#ghfooter{
+    font-family: glodok, sans-serif;
+    font-size: 35px;
+    background-color: transparent;
+    float: left;
+    margin-top: 110px;
+    margin-left: 95px;
+}
+
+
+/* address */
+#address {
+    float: right;
+    text-align: left;
+    margin-top: 100px;
+    margin-right: 100px;
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 14px; 
+}
+
+
+
+/* changes link colors */
+a {
+    color: #7BAD77;
+    text-decoration: #7BAD77;
+    }
+
+
+/*       BUTTONS       */
+button{
+    display: inline-block;
+    font-family: 'Inter Tight', sans-serif;
+    background-color: #7CAD78;
+    color: white;
+    text-align: center;
+    font-size:20px;
+}
+
+
+#gotostore {
+    font-family: 'Inter Tight', sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 50px;
+    border: none;
+    padding-left: 60%;
+    width: 70%;
+    height: 35px;
+    margin-bottom: 80px;
+}
+
+/* section beneath header */
+#section{
+    background-color: transparent;
+    width: 100%;
+    float: right;
+}
+
+
+#planticon {
+    float: left;
+    margin-left: 20%;
+    background-color: #3aa333;
+    margin-top: 2px;
+}
+#seelocations {
+    color:white;    
+    font-family: vinila, sans-serif;
+    font-style: italic;    
+    font-weight: 700;
+    border: none;
+    border: none;
+    background-color: #7CAD78;
+    font-size:20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 90px;
+    padding-right: 90px;
+    border-radius: 25px;
+    /* margin-bottom: 100px; */
+}
+/* HERE AT THE GREENHOUSE text paragraph */
+h3{
+    background-color:transparent;
+    font-family: vinila, sans-serif;
+    font-weight: 700;
+    font-style: italic;    
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10%;
+    margin-right: 30%;
+    margin-left: 30%;
+    margin-bottom: 2%;
+}
